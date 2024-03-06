@@ -44,8 +44,8 @@ const Categoryedit = (props) => {
         
       </Select>
     </FormControl><br/><br/><br/>
-          <Button variant="contained"onClick={addHandler}>Update</Button>
-        </div>
+         <div className='ss'> <button variant="contained"onClick={addHandler}>Update</button>
+        </div></div>
       )
   
 }

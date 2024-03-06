@@ -59,7 +59,7 @@ label="Required"
           onChange={inputHandler}/> <br /><br />
      
          
-               <Button variant="contained" onClick={checkData} >Login</Button> 
+               <Button variant="contained" onClick={checkData}>Login</Button>
       
     </div>
   )
